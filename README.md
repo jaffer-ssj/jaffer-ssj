@@ -5,7 +5,7 @@
 - 📫 How to reach me www.linkedin.com/in/shiek-jaffer28
 - i code in
   HTML,CSS,Java script.
-  IDE and Tools i use
+-IDE and Tools i use
   visual studio code,anaconda navigator
 - 
 - 
